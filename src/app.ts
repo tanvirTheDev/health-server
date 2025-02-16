@@ -12,7 +12,10 @@ const app: Application = express();
 
 app.use(
   cors({
-    origin: ['http://localhost:3000', 'http://localhost:3001'],
+    origin: [
+      'http://localhost:3000',
+      'https://health-server-production.up.railway.app',
+    ],
     credentials: true,
   }),
 );
