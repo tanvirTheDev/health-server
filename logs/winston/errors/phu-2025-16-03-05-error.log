@@ -1,0 +1,7 @@
+Sun Mar 16 2025 5:1:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `metro.proxy.rlwy.net:29260`
+
+Please make sure your database server is running at `metro.proxy.rlwy.net:29260`.

@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\errors\\.6a936993cb73a9c431a29bace16f9c16d208f714-audit.json",
+    "files": [
+        {
+            "date": 1742067817674,
+            "name": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\errors\\phu-2025-16-03-01-error.log",
+            "hash": "ce43aa49e97b87eb15ca3d1c76ab7947f4482c40f3a88336e9d026464dcab183"
+        },
+        {
+            "date": 1742068800148,
+            "name": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\errors\\phu-2025-16-03-02-error.log",
+            "hash": "e91d18977f09d5acd917c4ebb24ced45a2dacedc6534393d419701beda5879b1"
+        },
+        {
+            "date": 1742079660583,
+            "name": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\errors\\phu-2025-16-03-05-error.log",
+            "hash": "3db47d5093b4a191d8c1f705bd3443438d255fc2c0b575a84e6b7dd74b5d8f01"
+        },
+        {
+            "date": 1743058364269,
+            "name": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\errors\\phu-2025-27-03-12-error.log",
+            "hash": "139afceff0d962a36f8ac3b8012631ccf633cb2e6f9a71bb14738211eda98c59"
+        }
+    ],
+    "hashType": "sha256"
+}

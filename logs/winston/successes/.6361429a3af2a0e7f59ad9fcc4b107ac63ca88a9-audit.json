@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\successes\\.6361429a3af2a0e7f59ad9fcc4b107ac63ca88a9-audit.json",
+    "files": [
+        {
+            "date": 1742067817669,
+            "name": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\successes\\phu-2025-16-03-01-success.log",
+            "hash": "071d6c1925cb94a83fb3a1b218b484275ce469a9d11cbebcfcc8a99c99944622"
+        },
+        {
+            "date": 1742071072943,
+            "name": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\successes\\phu-2025-16-03-02-success.log",
+            "hash": "8c139194d71badbf7343ac12371a55518472a410c48ce069c8edb4ede58a8abc"
+        },
+        {
+            "date": 1743058364265,
+            "name": "C:\\Users\\user\\Desktop\\New folder (3)\\health-server\\logs\\winston\\successes\\phu-2025-27-03-12-success.log",
+            "hash": "0a37432eae6cdbedd8e3bc0d45df1f7b7980438d1a3650dc42ebc67c404e8324"
+        }
+    ],
+    "hashType": "sha256"
+}
