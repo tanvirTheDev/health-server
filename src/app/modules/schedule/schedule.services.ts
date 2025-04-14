@@ -79,7 +79,6 @@ const insertIntoDB = async (payload: ISchedule): Promise<Schedule[]> => {
 
   return schedules;
 };
-
 // const getAllFromDB = async (
 //   filters: IScheduleFilterRequest,
 //   options: IPaginationOptions,
